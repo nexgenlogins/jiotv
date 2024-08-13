@@ -2,9 +2,9 @@
 <addon id="repository.nexgenlogins" name="Nex-Gen Logins Repository" version="2.0.1" provider-name="Nex-gen logins">
     <extension point="xbmc.addon.repository" name="Nex-Gen Logins Repository">
         <dir minversion="19.0">
-            <info compressed="false">https://nexgenlogins.github.io/addons.xml</info>
-            <checksum>https://nexgenlogins.github.io/addons.xml.md5</checksum>
-            <datadir zip="true">https://nexgenlogins.github.io/Zips</datadir>
+            <info compressed="false">https://github.com/nexgenlogins/jiotv.git/addons.xml</info>
+            <checksum>https://https://github.com/nexgenlogins/jiotv.git/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/nexgenlogins/jiotv.git/Zips</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
