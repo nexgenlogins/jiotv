@@ -13,7 +13,7 @@
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <fanart>NEXGEN.png</fanart>
             <clearlogo>icon.png</clearlogo>
         </assets>
     </extension>
